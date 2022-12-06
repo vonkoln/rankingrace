@@ -7,11 +7,11 @@ export default [
   { id: 6, nome: 'Sr.Rich', nota: 828},
   { id: 7, nome: 'Fred', nota: 414},
   { id: 8, nome: 'TOTAL A', nota: 24411},
-  { id: 9, nome: 'Ernane', nota: 10285},
+  { id: 9, nome: 'Ernane', nota: 12065},
   { id: 10, nome: 'Luciano', nota: 5541},
   { id: 11, nome: 'Ruben', nota: 2527},
   { id: 12, nome: 'Miguel', nota: 4075},
   { id: 13, nome: 'Cry Baby', nota: 90},
   { id: 14, nome: 'Nilton', nota: 1240},
-  { id: 15, nome: 'TOTAL B', nota: 23758},
+  { id: 15, nome: 'TOTAL B', nota: 25538},
 ]

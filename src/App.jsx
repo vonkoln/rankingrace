@@ -17,7 +17,7 @@ export default () => {
     <h1>Ranking Noturno - Race 2022</h1> 
 
     <div className='Cards'> 
-      <Card titulo="Atualizado em 04/12" color="#00c8f8">
+      <Card titulo="Atualizado em 05/12" color="#00c8f8">
         <ListaAlunos></ListaAlunos>
       </Card>
 
